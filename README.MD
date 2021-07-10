@@ -1,3 +1,5 @@
+This was created by me, after hopping around a few tutorials (I don't remember which ones, otherwise I would link them here) -- You can distribute this all you want as well as use it however much you want & you do not have to give credit
+
 To Apply This Script
 
 1) Create Empty Game Object, Name It "Character" (Or Anything Else Managable)
