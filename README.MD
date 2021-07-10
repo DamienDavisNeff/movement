@@ -12,3 +12,5 @@ To Apply This Script
 8) Position Camera To Eye Level
 9) Apply Movement.cs To Empty Object
 10) Set Camera As The Camera In The Script
+
+Example ''Game'' Can Be Found In Example/movementExample.rar, if you need help downloading or running the ''Game'', read ''howtorun.md''
